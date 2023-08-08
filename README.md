@@ -1,2 +1,2 @@
-# toms_school
+# toms-school
 Tom's school
